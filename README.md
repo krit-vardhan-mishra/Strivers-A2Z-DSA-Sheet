@@ -1,2 +1,2 @@
 # Strivers-A2Z-DSA-Sheet
- DSA practice solutions for the Striver A2Z course.
+ DSA Practice Question Solution from Striver A2Z DSA Sheet.
