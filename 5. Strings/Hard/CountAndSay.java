@@ -13,7 +13,8 @@ public class CountAndSay {
                     i++;
                     count++;
                 }
-                next.append(count).append(ch);
+                next.append(count);
+                next.append(ch);
             }
             ans = next.toString();
         }
